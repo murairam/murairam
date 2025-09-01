@@ -35,7 +35,7 @@ t_coder mari = {
     .daily_tools = {"Linux", "Vim", "GDB", "Valgrind", "Peer Programming"},
     .past_life = "Designing energy solutions in Estonia",
     .future_goals = {"Data Science", "FinTech Innovation", "ML Applications"},
-    .current_mission = "Mastering Circle 2 at 42 and hunting for my first dev role"
+    .current_mission = "Mastering programming at 42 and hunting for my first dev role"
 };
 ```
 
