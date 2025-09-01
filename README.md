@@ -8,6 +8,8 @@
 - Building my programming skills from the ground up
 <br>
 
+<br>
+
 [![Linkedin: marimiil](https://img.shields.io/badge/-marimiil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marimiil/)](https://www.linkedin.com/in/marimiil/)
 [![GitHub: murairam](https://img.shields.io/badge/-murairam-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/murairam)](https://github.com/murairam)
 
