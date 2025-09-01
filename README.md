@@ -6,7 +6,6 @@
 - Currently navigating through [42 Paris](https://42.fr/)
 - Originally from Estonia, now making waves in Paris
 - Building my programming skills from the ground up
-- Passionate about data science and fintech innovation
 <br>
 
 [![Linkedin: marimiil](https://img.shields.io/badge/-marimiil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marimiil/)](https://www.linkedin.com/in/marimiil/)
