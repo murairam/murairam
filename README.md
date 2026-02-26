@@ -4,7 +4,7 @@
 
 - Former Energy Solutions Engineer diving into Software Development
 - Currently navigating through [42 Paris](https://42.fr/)
-- Originally from Estonia, now making waves in Paris
+- Originally from Estonia, now in Paris
 - Building my programming skills from the ground up
 <br>
 
