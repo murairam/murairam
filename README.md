@@ -1,21 +1,15 @@
-<h2> Hi, I'm Mari!<img width="30" height="30" alt="woman-technologist-medium-light-skin-tone_1f469-1f3fc-200d-1f4bb" src="https://github.com/user-attachments/assets/29254562-2cc8-4f81-9f7a-9a9dcbd52ac8" />
-</h2>
-<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdmNWNheXVxNHNuYThrNWs3ZjRvbDJxZzVoNmR5a25mdDh6Ym1qayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GuExKmluBdrrtAFwk/giphy.gif" width="290">
+## Hi, I'm Mari! <img width="30" height="30" alt="woman-technologist-medium-light-skin-tone_1f469-1f3fc-200d-1f4bb" src="https://github.com/user-attachments/assets/29254562-2cc8-4f81-9f7a-9a9dcbd52ac8" />
+
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdmNWNheXVxNHNuYThrNWs3ZjRvbDJxZzVoNmR5a25mdDh6Ym1qayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GuExKmluBdrrtAFwk/giphy.gif" width="290" alt="Coding animation" />
 
 - Former Energy Solutions Engineer diving into Software Development
 - Currently navigating through [42 Paris](https://42.fr/)
 - Originally from Estonia, now in Paris
 - Building my programming skills from the ground up
-<br>
-
-<br>
 
 [![Linkedin: marimiil](https://img.shields.io/badge/-marimiil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marimiil/)](https://www.linkedin.com/in/marimiil/)
-<br>
-<br>
 
-
-### <img width="30" height="30" alt="water-wave_1f30a" src="https://github.com/user-attachments/assets/79b496d8-bcf6-485b-8b56-17599ab993ed" /> Diving deeper into who I am...  
+### <img width="30" height="30" alt="water-wave_1f30a" src="https://github.com/user-attachments/assets/79b496d8-bcf6-485b-8b56-17599ab993ed" /> Diving deeper into who I am...
 
 ```c
 typedef struct s_coder {
@@ -37,6 +31,8 @@ t_coder mari = {
 };
 ```
 
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="60"> <em><b>I'm always up for a good conversation about programming, career switches, or just random life stuff</b> - feel free to reach out if you want to chat! 💬</em>
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="60" alt="Wave animation" />
+
+**I'm always up for a good conversation about programming, career switches, or just random life stuff** — feel free to reach out if you want to chat! 💬
 
 ---
